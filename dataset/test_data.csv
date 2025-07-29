@@ -1,0 +1,2 @@
+Filename,S1,S2,Height,BuildFoot,LLM,HeightCategory,MaxHeight
+1751,./dataset/output_tif_patches/optical_patch_01751.tif,./dataset/output_tif_patches/sar_patch_01751.tif,./dataset/output_tif_patches/height_patch_01751.tif,./dataset/output_tif_patches/mask_patch_01751.tif,./dataset/output_tif_patches/LLM_patch_01751.png,high,135
